@@ -1,0 +1,14 @@
+.DS_Store
+Podfile.lock
+build/
+Pods/
+*.xcuserstate
+*.xcuserdata
+*.project.xcworkspace
+*.perspective
+*.perspectivev3
+*.pbxuser
+xcuserdata/
+DerivedData/
+*.xcworkspace
+.xccurrentversion
